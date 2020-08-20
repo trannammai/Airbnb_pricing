@@ -1,5 +1,4 @@
 # Smarter Pricing for Airbnb
-## **Project 5 in the Metis Data Science Bootcamp**
 
 Problem statement: *Can we build a smarter pricing model for Airbnb hosts to increase their revenue? Can we recommend similar successful listings?*
 
